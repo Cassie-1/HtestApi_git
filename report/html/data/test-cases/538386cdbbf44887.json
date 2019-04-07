@@ -1,0 +1,66 @@
+{
+  "uid" : "538386cdbbf44887",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_success",
+  "fullName" : "testcase_city.G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_success",
+  "historyId" : "adb661e5fb33c281db11ba3f9a4cadc7",
+  "time" : {
+    "start" : 1554608756244,
+    "stop" : 1554608756279,
+    "duration" : 35
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BO6F4B0"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "登录成功"
+  }, {
+    "name" : "thread",
+    "value" : "27364-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testMethod",
+    "value" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase_city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "538386cdbbf44887.json",
+  "parameterValues" : [ ]
+}

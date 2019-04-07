@@ -1,0 +1,145 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "密码修改成功",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd",
+        "uid" : "9524725b152c2c8b",
+        "parentUid" : "a09c0f12f6c23c56f09b40eb36dbd259",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608738456,
+          "stop" : 1554608756199,
+          "duration" : 17743
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a09c0f12f6c23c56f09b40eb36dbd259"
+    }, {
+      "name" : "旧密码错误",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd",
+        "uid" : "6fa4885333fc3493",
+        "parentUid" : "0be4be91bc8c24f9b83258f2fa5fe528",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756200,
+          "stop" : 1554608756223,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0be4be91bc8c24f9b83258f2fa5fe528"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "展示用户信息模块",
+    "children" : [ {
+      "name" : "获取用户信息成功",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_getUserInfo.Test_getUserInfo.test_sys_getUserInfo",
+        "uid" : "21c3c2fde4d2bd85",
+        "parentUid" : "5aaaed168e13ab4faae1ee1a49489776",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756224,
+          "stop" : 1554608756243,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5aaaed168e13ab4faae1ee1a49489776"
+    } ],
+    "uid" : "1b1e5a20cb705ffde14e39217e322362"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_success",
+        "uid" : "538386cdbbf44887",
+        "parentUid" : "57a00934f1bd353362aa1d78642bc405",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756244,
+          "stop" : 1554608756279,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57a00934f1bd353362aa1d78642bc405"
+    }, {
+      "name" : "用户名或密码错误",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_pwd",
+        "uid" : "cb7072827d09ae7f",
+        "parentUid" : "fad2c343aaebe8ed392db08e61019692",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756280,
+          "stop" : 1554608756308,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fad2c343aaebe8ed392db08e61019692"
+    }, {
+      "name" : "用户不存在",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user",
+        "uid" : "636657a6c40bae30",
+        "parentUid" : "5eab28b55203dd19015cabcb4e12ffbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756308,
+          "stop" : 1554608756357,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user_none",
+        "uid" : "de8e23f449706e9b",
+        "parentUid" : "5eab28b55203dd19015cabcb4e12ffbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756358,
+          "stop" : 1554608756401,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5eab28b55203dd19015cabcb4e12ffbc"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "用户信息模块",
+    "children" : [ {
+      "name" : "添加新用户查看",
+      "children" : [ {
+        "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\user.test_addUser.Test_User.test_saveOrUpdateUser",
+        "uid" : "51e18a03632a96b7",
+        "parentUid" : "48feead5de3336683b27be1519871686",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608756402,
+          "stop" : 1554608756642,
+          "duration" : 240
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48feead5de3336683b27be1519871686"
+    } ],
+    "uid" : "93e6d5aa633956525794a4e27d81e14b"
+  } ]
+}

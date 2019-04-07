@@ -1,0 +1,118 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608738456" stop="1554608756642">
+  <name>testcase_city</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608738456" status="passed" stop="1554608756199">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="密码修改成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756200" status="passed" stop="1554608756223">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="旧密码错误"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756224" status="passed" stop="1554608756243">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_getUserInfo.Test_getUserInfo.test_sys_getUserInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="展示用户信息模块"/>
+        <label name="story" value="获取用户信息成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756244" status="passed" stop="1554608756279">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_login.Test_login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="登录成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756280" status="passed" stop="1554608756308">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_login.Test_login.test_login_fail_error_pwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="用户名或密码错误"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756308" status="passed" stop="1554608756357">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_login.Test_login.test_login_fail_error_user</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="用户不存在"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756358" status="passed" stop="1554608756401">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\sys.test_sys_login.Test_login.test_login_fail_error_user_none</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="用户不存在"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608756402" status="passed" stop="1554608756642">
+      <name>G:\pythonWorkSpace\workspace\HtestApi\testcase_city\user.test_addUser.Test_User.test_saveOrUpdateUser</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="用户信息模块"/>
+        <label name="story" value="添加新用户查看"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="27364-MainThread"/>
+        <label name="host" value="DESKTOP-BO6F4B0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

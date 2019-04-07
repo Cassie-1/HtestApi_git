@@ -1,0 +1,66 @@
+{
+  "uid" : "6fa4885333fc3493",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd",
+  "fullName" : "testcase_city.G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd",
+  "historyId" : "bd622f7be7ecef5c49ba4d9d094e9782",
+  "time" : {
+    "start" : 1554608756200,
+    "stop" : 1554608756223,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BO6F4B0"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "旧密码错误"
+  }, {
+    "name" : "thread",
+    "value" : "27364-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testMethod",
+    "value" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd"
+  }, {
+    "name" : "package",
+    "value" : "testcase_city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fa4885333fc3493.json",
+  "parameterValues" : [ ]
+}

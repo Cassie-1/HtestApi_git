@@ -1,0 +1,66 @@
+{
+  "uid" : "de8e23f449706e9b",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user_none",
+  "fullName" : "testcase_city.G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user_none",
+  "historyId" : "17a5582e85d24a83f0dd6721720ed1fb",
+  "time" : {
+    "start" : 1554608756358,
+    "stop" : 1554608756401,
+    "duration" : 43
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BO6F4B0"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户不存在"
+  }, {
+    "name" : "thread",
+    "value" : "27364-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testMethod",
+    "value" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user_none"
+  }, {
+    "name" : "package",
+    "value" : "testcase_city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de8e23f449706e9b.json",
+  "parameterValues" : [ ]
+}

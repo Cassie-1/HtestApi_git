@@ -1,0 +1,66 @@
+{
+  "uid" : "51e18a03632a96b7",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\user.test_addUser.Test_User.test_saveOrUpdateUser",
+  "fullName" : "testcase_city.G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\user.test_addUser.Test_User.test_saveOrUpdateUser",
+  "historyId" : "baf283bb34365e6098cb052d712dc4e2",
+  "time" : {
+    "start" : 1554608756402,
+    "stop" : 1554608756642,
+    "duration" : 240
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "用户信息模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-BO6F4B0"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "添加新用户查看"
+  }, {
+    "name" : "thread",
+    "value" : "27364-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase_city"
+  }, {
+    "name" : "testMethod",
+    "value" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\user.test_addUser.Test_User.test_saveOrUpdateUser"
+  }, {
+    "name" : "package",
+    "value" : "testcase_city"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51e18a03632a96b7.json",
+  "parameterValues" : [ ]
+}

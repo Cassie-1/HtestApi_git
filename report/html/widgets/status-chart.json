@@ -1,0 +1,81 @@
+[ {
+  "uid" : "6fa4885333fc3493",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd",
+  "time" : {
+    "start" : 1554608756200,
+    "stop" : 1554608756223,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "538386cdbbf44887",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_success",
+  "time" : {
+    "start" : 1554608756244,
+    "stop" : 1554608756279,
+    "duration" : 35
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51e18a03632a96b7",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\user.test_addUser.Test_User.test_saveOrUpdateUser",
+  "time" : {
+    "start" : 1554608756402,
+    "stop" : 1554608756642,
+    "duration" : 240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "636657a6c40bae30",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user",
+  "time" : {
+    "start" : 1554608756308,
+    "stop" : 1554608756357,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21c3c2fde4d2bd85",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_getUserInfo.Test_getUserInfo.test_sys_getUserInfo",
+  "time" : {
+    "start" : 1554608756224,
+    "stop" : 1554608756243,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb7072827d09ae7f",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_pwd",
+  "time" : {
+    "start" : 1554608756280,
+    "stop" : 1554608756308,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de8e23f449706e9b",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user_none",
+  "time" : {
+    "start" : 1554608756358,
+    "stop" : 1554608756401,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9524725b152c2c8b",
+  "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd",
+  "time" : {
+    "start" : 1554608738456,
+    "stop" : 1554608756199,
+    "duration" : 17743
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,105 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase_city",
+    "children" : [ {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd",
+      "uid" : "9524725b152c2c8b",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608738456,
+        "stop" : 1554608756199,
+        "duration" : 17743
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_changePwd.Test_changePwd.test_sys_changePwd_error_oldpwd",
+      "uid" : "6fa4885333fc3493",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756200,
+        "stop" : 1554608756223,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_getUserInfo.Test_getUserInfo.test_sys_getUserInfo",
+      "uid" : "21c3c2fde4d2bd85",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756224,
+        "stop" : 1554608756243,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_success",
+      "uid" : "538386cdbbf44887",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756244,
+        "stop" : 1554608756279,
+        "duration" : 35
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_pwd",
+      "uid" : "cb7072827d09ae7f",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756280,
+        "stop" : 1554608756308,
+        "duration" : 28
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user",
+      "uid" : "636657a6c40bae30",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756308,
+        "stop" : 1554608756357,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\sys.test_sys_login.Test_login.test_login_fail_error_user_none",
+      "uid" : "de8e23f449706e9b",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756358,
+        "stop" : 1554608756401,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "G:\\pythonWorkSpace\\workspace\\HtestApi\\testcase_city\\user.test_addUser.Test_User.test_saveOrUpdateUser",
+      "uid" : "51e18a03632a96b7",
+      "parentUid" : "50247ddebf0f176615fc6e3549e5cdbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608756402,
+        "stop" : 1554608756642,
+        "duration" : 240
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "50247ddebf0f176615fc6e3549e5cdbd"
+  } ]
+}
